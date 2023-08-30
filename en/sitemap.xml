@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https:/stefanwyd.github.io/en/about/</loc>
+    <loc>https://StefanWyd.github.io/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https:/stefanwyd.github.io/%E5%85%B3%E4%BA%8E/"
+                href="https://StefanWyd.github.io/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:/stefanwyd.github.io/en/about/"
+                href="https://StefanWyd.github.io/en/about/"
                 />
   </url><url>
-    <loc>https:/stefanwyd.github.io/en/archives/</loc>
+    <loc>https://StefanWyd.github.io/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https:/stefanwyd.github.io/archives/"
+                href="https://StefanWyd.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:/stefanwyd.github.io/en/archives/"
+                href="https://StefanWyd.github.io/en/archives/"
                 />
   </url><url>
-    <loc>https:/stefanwyd.github.io/en/categories/</loc>
+    <loc>https://StefanWyd.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https:/stefanwyd.github.io/categories/"
+                href="https://StefanWyd.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:/stefanwyd.github.io/en/categories/"
+                href="https://StefanWyd.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https:/stefanwyd.github.io/en/links/</loc>
+    <loc>https://StefanWyd.github.io/en/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https:/stefanwyd.github.io/%E9%93%BE%E6%8E%A5/"
+                href="https://StefanWyd.github.io/%E9%93%BE%E6%8E%A5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:/stefanwyd.github.io/en/links/"
+                href="https://StefanWyd.github.io/en/links/"
                 />
   </url><url>
-    <loc>https:/stefanwyd.github.io/en/page/</loc>
+    <loc>https://StefanWyd.github.io/en/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https:/stefanwyd.github.io/page/"
+                href="https://StefanWyd.github.io/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:/stefanwyd.github.io/en/page/"
+                href="https://StefanWyd.github.io/en/page/"
                 />
   </url><url>
-    <loc>https:/stefanwyd.github.io/en/search/</loc>
+    <loc>https://StefanWyd.github.io/en/search/</loc>
   </url><url>
-    <loc>https:/stefanwyd.github.io/en/</loc>
+    <loc>https://StefanWyd.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https:/stefanwyd.github.io/"
+                href="https://StefanWyd.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:/stefanwyd.github.io/en/"
+                href="https://StefanWyd.github.io/en/"
                 />
   </url><url>
-    <loc>https:/stefanwyd.github.io/en/tags/</loc>
+    <loc>https://StefanWyd.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https:/stefanwyd.github.io/tags/"
+                href="https://StefanWyd.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https:/stefanwyd.github.io/en/tags/"
+                href="https://StefanWyd.github.io/en/tags/"
                 />
   </url>
 </urlset>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Stefan&#39;s</title>
-        <link>https:/stefanwyd.github.io/en/</link>
+        <link>https://StefanWyd.github.io/en/</link>
         <description>Recent content on Stefan&#39;s</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Example Person</copyright><atom:link href="https:/stefanwyd.github.io/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Example Person</copyright><atom:link href="https://StefanWyd.github.io/en/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https:/stefanwyd.github.io/en/about/</link>
+        <link>https://StefanWyd.github.io/en/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https:/stefanwyd.github.io/en/about/</guid>
+        <guid>https://StefanWyd.github.io/en/about/</guid>
         <description>&lt;p&gt;CV:&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://maifile.cn/est/a2226932657580/pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://maifile.cn/est/a2226932657580/pdf&lt;/a&gt;&lt;/p&gt;
@@ -19,18 +19,18 @@
         </item>
         <item>
         <title>archives</title>
-        <link>https:/stefanwyd.github.io/en/archives/</link>
+        <link>https://StefanWyd.github.io/en/archives/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https:/stefanwyd.github.io/en/archives/</guid>
+        <guid>https://StefanWyd.github.io/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https:/stefanwyd.github.io/en/links/</link>
+        <link>https://StefanWyd.github.io/en/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https:/stefanwyd.github.io/en/links/</guid>
+        <guid>https://StefanWyd.github.io/en/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -62,10 +62,10 @@
         </item>
         <item>
         <title>search</title>
-        <link>https:/stefanwyd.github.io/en/search/</link>
+        <link>https://StefanWyd.github.io/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https:/stefanwyd.github.io/en/search/</guid>
+        <guid>https://StefanWyd.github.io/en/search/</guid>
         <description></description>
         </item>
         
