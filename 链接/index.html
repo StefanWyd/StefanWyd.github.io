@@ -82,7 +82,7 @@
         
         <div class="site-meta">
             <h1 class="site-name"><a href="/">东</a></h1>
-            <h2 class="site-description">In The Cold Bleak Winter</h2>
+            <h2 class="site-description">In the cold bleak winter</h2>
         </div>
     </header><ol class="social-menu">
             
@@ -275,6 +275,15 @@
 
         
             <div>
+                <svg role="img" xmlns="http://www.w3.org/2000/svg" width="48px" height="48px" viewBox="0 0 24 24" aria-labelledby="editIconTitle" stroke="#767676" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" fill="none" color="#767676"> <title id="editIconTitle">Edit</title> <path d="M18.4142136 4.41421356L19.5857864 5.58578644C20.366835 6.36683502 20.366835 7.63316498 19.5857864 8.41421356L8 20 4 20 4 16 15.5857864 4.41421356C16.366835 3.63316498 17.633165 3.63316498 18.4142136 4.41421356zM14 6L18 10"/> </svg>
+                <time class="article-words">
+                    0 字
+                </time>
+            </div>
+
+        
+        
+            <div>
                 <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
   <circle cx="12" cy="12" r="9" />
@@ -287,6 +296,7 @@
                     阅读时长: 0 分钟
                 </time>
             </div>
+
         
     </footer>
     
@@ -375,18 +385,46 @@
 
     <footer class="site-footer">
     <section class="copyright">
-        &copy; 
+        &copy;
         
-            2020 - 
+            2020 -
         
-        2023 Example Person
+        2023 东 <br />
+        已运行 <i class="fas fa-bell"></i> <a id="days">0</a> 天
+
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+        &nbsp;&nbsp;⌨ 0.79k 字 &nbsp;&nbsp;📖1 篇文章
     </section>
     
     <section class="powerby">
         Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
         主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.18.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
     </section>
+
+    <script>
+        var s1 = '2023-08-28';
+        s1 = new Date(s1.replace(/-/g, "/"));
+        s2 = new Date();
+        var days = s2.getTime() - s1.getTime();
+        var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));
+        document.getElementById('days').innerHTML = number_of_days;
+    </script>
+    
 </footer>
+
+
 
 
     
