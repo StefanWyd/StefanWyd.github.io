@@ -15,13 +15,8 @@
                 href="https://StefanWyd.github.io/"
                 />
   </url><url>
-    <loc>https://StefanWyd.github.io/post/</loc>
-    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
-  </url><url>
-    <loc>https://StefanWyd.github.io/p/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
-  </url><url>
     <loc>https://StefanWyd.github.io/categories/</loc>
+    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,6 +27,34 @@
                 hreflang="zh-cn"
                 href="https://StefanWyd.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://StefanWyd.github.io/post/</loc>
+    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
+  </url><url>
+    <loc>https://StefanWyd.github.io/tags/</loc>
+    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://StefanWyd.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://StefanWyd.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://StefanWyd.github.io/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
+  </url><url>
+    <loc>https://StefanWyd.github.io/p/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
+  </url><url>
+    <loc>https://StefanWyd.github.io/tags/%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89/</loc>
+    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
+  </url><url>
+    <loc>https://StefanWyd.github.io/tags/%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
   </url><url>
     <loc>https://StefanWyd.github.io/page/</loc>
     <xhtml:link
@@ -44,20 +67,6 @@
                 hreflang="zh-cn"
                 href="https://StefanWyd.github.io/page/"
                 />
-  </url><url>
-    <loc>https://StefanWyd.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://StefanWyd.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://StefanWyd.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://StefanWyd.github.io/categories/test/</loc>
   </url><url>
     <loc>https://StefanWyd.github.io/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link

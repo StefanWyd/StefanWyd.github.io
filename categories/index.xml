@@ -6,13 +6,14 @@
         <description>Recent content in Categories on 东</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright><atom:link href="https://StefanWyd.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://StefanWyd.github.io/categories/test/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Tue, 29 Aug 2023 19:30:09 +0800</lastBuildDate><atom:link href="https://StefanWyd.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>日记</title>
+        <link>https://StefanWyd.github.io/categories/%E6%97%A5%E8%AE%B0/</link>
+        <pubDate>Tue, 29 Aug 2023 19:30:09 +0800</pubDate>
         
-        <guid>https://StefanWyd.github.io/categories/test/</guid>
-        <description>&lt;img src="https://StefanWyd.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://StefanWyd.github.io/categories/%E6%97%A5%E8%AE%B0/</guid>
+        <description>&lt;img src="https://StefanWyd.github.io/categories/%E6%97%A5%E8%AE%B0/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 日记" /&gt;</description>
         </item>
         
     </channel>
