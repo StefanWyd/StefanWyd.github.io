@@ -2,16 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>东</title>
-        <link>https://StefanWyd.github.io/</link>
+        <link>https:/stefanwyd.github.io/</link>
         <description>Recent content on 东</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright><atom:link href="https://StefanWyd.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Tue, 29 Aug 2023 19:30:09 +0800</lastBuildDate><atom:link href="https:/stefanwyd.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>日记</title>
+        <link>https:/stefanwyd.github.io/p/%E6%97%A5%E8%AE%B0/</link>
+        <pubDate>Tue, 29 Aug 2023 19:30:09 +0800</pubDate>
+        
+        <guid>https:/stefanwyd.github.io/p/%E6%97%A5%E8%AE%B0/</guid>
+        <description>&lt;h1 id=&#34;纯粹的实用主义者&#34;&gt;纯粹的实用主义者&lt;/h1&gt;
+&lt;p&gt;高中之前，我一直认为自己是绝对理性的。面对各种突如其来的情绪，脑海中会浮现出一个念头：“&lt;strong&gt;这个想法是否有助于问题的解决&lt;/strong&gt;”。我想把这看作实用主义的体现。这句话好像一个锚点，对抗着风起云涌的外部世界。但随着生活环境的变化，很多自认为的人生信条渐渐被打破。锚点不再稳定，一叶扁舟漂泊摇曳，情绪也渐渐被现实扯得七零八碎。比如曾经我认为言语上的争论无助于解决实际困难，所以面对争吵与挑衅总以沉默回应。在解除了更多人与事之后，我。但我错误的将怀疑的矛头指向自己的实用主义思维。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>关于</title>
-        <link>https://StefanWyd.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <link>https:/stefanwyd.github.io/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://StefanWyd.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https:/stefanwyd.github.io/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;简历&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://maifile.cn/est/a2226932657580/pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://maifile.cn/est/a2226932657580/pdf&lt;/a&gt;&lt;/p&gt;
@@ -19,26 +30,26 @@
         </item>
         <item>
         <title>归档</title>
-        <link>https://StefanWyd.github.io/archives/</link>
+        <link>https:/stefanwyd.github.io/archives/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://StefanWyd.github.io/archives/</guid>
+        <guid>https:/stefanwyd.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>链接</title>
-        <link>https://StefanWyd.github.io/%E9%93%BE%E6%8E%A5/</link>
+        <link>https:/stefanwyd.github.io/%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://StefanWyd.github.io/%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https:/stefanwyd.github.io/%E9%93%BE%E6%8E%A5/</guid>
         <description></description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://StefanWyd.github.io/search/</link>
+        <link>https:/stefanwyd.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://StefanWyd.github.io/search/</guid>
+        <guid>https:/stefanwyd.github.io/search/</guid>
         <description></description>
         </item>
         

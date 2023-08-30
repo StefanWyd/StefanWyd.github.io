@@ -2,92 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://StefanWyd.github.io/</loc>
+    <loc>https:/stefanwyd.github.io/</loc>
+    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://StefanWyd.github.io/en/"
+                href="https:/stefanwyd.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://StefanWyd.github.io/"
+                href="https:/stefanwyd.github.io/"
                 />
   </url><url>
-    <loc>https://StefanWyd.github.io/categories/</loc>
+    <loc>https:/stefanwyd.github.io/post/</loc>
+    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
+  </url><url>
+    <loc>https:/stefanwyd.github.io/p/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2023-08-29T19:30:09+08:00</lastmod>
+  </url><url>
+    <loc>https:/stefanwyd.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://StefanWyd.github.io/en/categories/"
+                href="https:/stefanwyd.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://StefanWyd.github.io/categories/"
+                href="https:/stefanwyd.github.io/categories/"
                 />
   </url><url>
-    <loc>https://StefanWyd.github.io/page/</loc>
+    <loc>https:/stefanwyd.github.io/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://StefanWyd.github.io/en/page/"
+                href="https:/stefanwyd.github.io/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://StefanWyd.github.io/page/"
+                href="https:/stefanwyd.github.io/page/"
                 />
   </url><url>
-    <loc>https://StefanWyd.github.io/tags/</loc>
+    <loc>https:/stefanwyd.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://StefanWyd.github.io/en/tags/"
+                href="https:/stefanwyd.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://StefanWyd.github.io/tags/"
+                href="https:/stefanwyd.github.io/tags/"
                 />
   </url><url>
-    <loc>https://StefanWyd.github.io/categories/test/</loc>
+    <loc>https:/stefanwyd.github.io/categories/test/</loc>
   </url><url>
-    <loc>https://StefanWyd.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https:/stefanwyd.github.io/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://StefanWyd.github.io/en/about/"
+                href="https:/stefanwyd.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://StefanWyd.github.io/%E5%85%B3%E4%BA%8E/"
+                href="https:/stefanwyd.github.io/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>https://StefanWyd.github.io/archives/</loc>
+    <loc>https:/stefanwyd.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://StefanWyd.github.io/en/archives/"
+                href="https:/stefanwyd.github.io/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://StefanWyd.github.io/archives/"
+                href="https:/stefanwyd.github.io/archives/"
                 />
   </url><url>
-    <loc>https://StefanWyd.github.io/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https:/stefanwyd.github.io/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://StefanWyd.github.io/en/links/"
+                href="https:/stefanwyd.github.io/en/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://StefanWyd.github.io/%E9%93%BE%E6%8E%A5/"
+                href="https:/stefanwyd.github.io/%E9%93%BE%E6%8E%A5/"
                 />
   </url><url>
-    <loc>https://StefanWyd.github.io/search/</loc>
+    <loc>https:/stefanwyd.github.io/search/</loc>
   </url>
 </urlset>
