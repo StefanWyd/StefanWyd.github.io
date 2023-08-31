@@ -1,39 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>东</title>
+        <title>Stefan&#39;s</title>
         <link>https://StefanWyd.github.io/</link>
-        <description>Recent content on 东</description>
+        <description>Recent content on Stefan&#39;s</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Tue, 29 Aug 2023 19:30:09 +0800</lastBuildDate><atom:link href="https://StefanWyd.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>日记</title>
-        <link>https://StefanWyd.github.io/p/%E6%97%A5%E8%AE%B0/</link>
-        <pubDate>Tue, 29 Aug 2023 19:30:09 +0800</pubDate>
-        
-        <guid>https://StefanWyd.github.io/p/%E6%97%A5%E8%AE%B0/</guid>
-        <description>&lt;h1 id=&#34;纯粹的实用主义者&#34;&gt;纯粹的实用主义者&lt;/h1&gt;
-&lt;p&gt;高中之前，如果让我用一个词来形容我，我会选择“&lt;strong&gt;实用主义&lt;/strong&gt;”。面对各种突如其来的情绪，脑海中总会浮现出一个念头：“&lt;strong&gt;这个想法是否有助于问题的解决&lt;/strong&gt;”。这个念头好像一个锚点，对抗着风起云涌的外部世界。但随着生活环境的变化，接触了越来越多的人和事，很多自认为坚定的人生信条渐渐被打破。锚点不再稳定，一叶扁舟漂泊摇曳，情绪也渐渐被现实扯得七零八碎。&lt;/p&gt;
-&lt;p&gt;比如我曾经认为言语上的争论无助于解决实际困难，因此面对争吵与挑衅总以沉默回应。但过多的缄默代表着对个人原则的捍卫的缺失，导致底线被人有意或是无意的侵犯。便有了“老好人”的称谓。自此，我开始重视语言的重要性，下定决心改变说话不清晰的毛病，同时检视自己的表达，目标是精简而准确。&lt;/p&gt;
-&lt;p&gt;每当此类情况发生，我都会或多或少的将怀疑的矛头指向“锚点”：&lt;strong&gt;有用&lt;/strong&gt;到底是不是衡量情绪或行为出现的标准？因此，这个念头在脑海中出现的次数越来越少，情绪也越来越多次地湮没在汹涌浪潮中无法自拔。&lt;/p&gt;
-&lt;p&gt;最近，我像一个即将溺死的人在拼命挣扎，无意间抓住了这个锈迹斑斑的“锚”，仔细端详后才发现，自己一直找错了问题的症结所在。实用主义的正确性在多种层面得到了证实，只是成长会渐渐改变“有用”与“无用”的覆盖区间，比如曾经我认为表达与争论是无用的，而现在则越来越重视语言的力量。&lt;/p&gt;
-&lt;p&gt;无意间其实并不准确，有件事引发了我对实用主义的反思。入睡。睡觉前是脑子最活跃的时候，从幼儿园时的糗事到对前途的担忧，脑子里好像演了一场电影。电影是一场悲剧，但更可怕的是主角是自己。焦躁不安，辗转反侧，拿起手机，用视频刺激自己的大脑，饥渴的寻求大脑中多巴胺的峰值。后来，我真正意识到一件事：&lt;strong&gt;过去未来的焦虑对此时此刻的睡眠带来的影响是纯粹负面的&lt;/strong&gt;。这之后我尝试摒弃杂念，抛下负担，睡眠也渐渐好转。这种反思好像进行了一场思想除锈，希望在以后的生活中实用主义的“&lt;strong&gt;锚&lt;/strong&gt;”能够真正为我带来内核的稳定与平和。&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://StefanWyd.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <language>en</language>
+        <copyright>Example Person</copyright><atom:link href="https://StefanWyd.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://StefanWyd.github.io/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://StefanWyd.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;简历&lt;/p&gt;
+        <guid>https://StefanWyd.github.io/about/</guid>
+        <description>&lt;p&gt;CV:&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://maifile.cn/est/a2226932657580/pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://maifile.cn/est/a2226932657580/pdf&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>归档</title>
+        <title>Archives</title>
         <link>https://StefanWyd.github.io/archives/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
@@ -41,15 +26,42 @@
         <description></description>
         </item>
         <item>
-        <title>链接</title>
-        <link>https://StefanWyd.github.io/%E9%93%BE%E6%8E%A5/</link>
+        <title>Links</title>
+        <link>https://StefanWyd.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://StefanWyd.github.io/%E9%93%BE%E6%8E%A5/</guid>
-        <description></description>
+        <guid>https://StefanWyd.github.io/links/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
         </item>
         <item>
-        <title>搜索</title>
+        <title>Search</title>
         <link>https://StefanWyd.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
