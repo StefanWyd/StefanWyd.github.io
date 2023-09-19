@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Stefan&#39;s</title>
-        <link>https://stefanwyd.github.io/categories/</link>
+        <link>https://StefanWyd.github.io/categories/</link>
         <description>Recent content in Categories on Stefan&#39;s</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Example Person</copyright><atom:link href="https://stefanwyd.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Example Person</copyright><atom:link href="https://StefanWyd.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>日记</title>
-        <link>https://stefanwyd.github.io/categories/%E6%97%A5%E8%AE%B0/</link>
+        <link>https://StefanWyd.github.io/categories/%E6%97%A5%E8%AE%B0/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://stefanwyd.github.io/categories/%E6%97%A5%E8%AE%B0/</guid>
-        <description>&lt;img src="https://stefanwyd.github.io/categories/%E6%97%A5%E8%AE%B0/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 日记" /&gt;</description>
+        <guid>https://StefanWyd.github.io/categories/%E6%97%A5%E8%AE%B0/</guid>
+        <description>&lt;img src="https://StefanWyd.github.io/categories/%E6%97%A5%E8%AE%B0/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 日记" /&gt;</description>
         </item>
         <item>
         <title>网站</title>
-        <link>https://stefanwyd.github.io/categories/%E7%BD%91%E7%AB%99/</link>
+        <link>https://StefanWyd.github.io/categories/%E7%BD%91%E7%AB%99/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://stefanwyd.github.io/categories/%E7%BD%91%E7%AB%99/</guid>
-        <description>&lt;img src="https://stefanwyd.github.io/categories/%E7%BD%91%E7%AB%99/%E7%BD%91%E7%AB%99%E7%A4%BA%E6%84%8F%E5%9B%BE.png" alt="Featured image of post 网站" /&gt;</description>
+        <guid>https://StefanWyd.github.io/categories/%E7%BD%91%E7%AB%99/</guid>
+        <description>&lt;img src="https://StefanWyd.github.io/categories/%E7%BD%91%E7%AB%99/%E7%BD%91%E7%AB%99%E7%A4%BA%E6%84%8F%E5%9B%BE.png" alt="Featured image of post 网站" /&gt;</description>
         </item>
         
     </channel>

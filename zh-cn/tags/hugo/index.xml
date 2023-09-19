@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>hugo on 东</title>
-        <link>https://stefanwyd.github.io/zh-cn/tags/hugo/</link>
+        <link>https://StefanWyd.github.io/zh-cn/tags/hugo/</link>
         <description>Recent content in hugo on 东</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Tue, 29 Aug 2023 19:30:09 +0800</lastBuildDate><atom:link href="https://stefanwyd.github.io/zh-cn/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 29 Aug 2023 19:30:09 +0800</lastBuildDate><atom:link href="https://StefanWyd.github.io/zh-cn/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>个人博客建立记录</title>
-        <link>https://stefanwyd.github.io/zh-cn/p/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B%E8%AE%B0%E5%BD%95/</link>
+        <link>https://StefanWyd.github.io/zh-cn/p/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B%E8%AE%B0%E5%BD%95/</link>
         <pubDate>Tue, 29 Aug 2023 19:30:09 +0800</pubDate>
         
-        <guid>https://stefanwyd.github.io/zh-cn/p/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B%E8%AE%B0%E5%BD%95/</guid>
-        <description>&lt;img src="https://stefanwyd.github.io/zh-cn/p/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B%E8%AE%B0%E5%BD%95/web.jpg" alt="Featured image of post 个人博客建立记录" /&gt;&lt;h1 id=&#34;hugo建站记录&#34;&gt;Hugo建站记录&lt;/h1&gt;
+        <guid>https://StefanWyd.github.io/zh-cn/p/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;img src="https://StefanWyd.github.io/zh-cn/p/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%8B%E8%AE%B0%E5%BD%95/web.jpg" alt="Featured image of post 个人博客建立记录" /&gt;&lt;h1 id=&#34;hugo建站记录&#34;&gt;Hugo建站记录&lt;/h1&gt;
 &lt;p&gt;建立个人网站的想法在一年前就有了，最初的思路是从前端开始学起，但苦于没有时间精力折腾，暂时搁置。之后决定采用博客框架，权衡后选择了hugo框架，操作简单且渲染速度快。接下来介绍网站的建立过程以及部分功能的添加与修改。&lt;/p&gt;
 &lt;h2 id=&#34;准备工作win11系统&#34;&gt;准备工作（win11系统）&lt;/h2&gt;
 &lt;h3 id=&#34;hugo-安装&#34;&gt;hugo 安装&lt;/h3&gt;
