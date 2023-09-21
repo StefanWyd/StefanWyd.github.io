@@ -2,100 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://StefanWyd.github.io/en/</loc>
+    <loc>https://StefanWyd.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+                href="https://StefanWyd.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://StefanWyd.github.io/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://StefanWyd.github.io/en/"
-                />
   </url><url>
-    <loc>https://StefanWyd.github.io/en/about/</loc>
+    <loc>https://StefanWyd.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+                href="https://StefanWyd.github.io/zh-cn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://StefanWyd.github.io/about/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://StefanWyd.github.io/en/about/"
-                />
   </url><url>
-    <loc>https://StefanWyd.github.io/en/archives/</loc>
+    <loc>https://StefanWyd.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+                href="https://StefanWyd.github.io/zh-cn/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://StefanWyd.github.io/archives/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://StefanWyd.github.io/en/archives/"
-                />
   </url><url>
-    <loc>https://StefanWyd.github.io/en/categories/</loc>
+    <loc>https://StefanWyd.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+                href="https://StefanWyd.github.io/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://StefanWyd.github.io/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://StefanWyd.github.io/en/categories/"
-                />
   </url><url>
-    <loc>https://StefanWyd.github.io/en/links/</loc>
+    <loc>https://StefanWyd.github.io/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://StefanWyd.github.io/%E9%93%BE%E6%8E%A5/"
+                href="https://StefanWyd.github.io/zh-cn/%E9%93%BE%E6%8E%A5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://StefanWyd.github.io/en/links/"
+                href="https://StefanWyd.github.io/links/"
                 />
   </url><url>
-    <loc>https://StefanWyd.github.io/en/page/</loc>
+    <loc>https://StefanWyd.github.io/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+                href="https://StefanWyd.github.io/zh-cn/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://StefanWyd.github.io/page/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://StefanWyd.github.io/en/page/"
-                />
   </url><url>
-    <loc>https://StefanWyd.github.io/en/search/</loc>
+    <loc>https://StefanWyd.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
+                href="https://StefanWyd.github.io/zh-cn/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://StefanWyd.github.io/search/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://StefanWyd.github.io/en/search/"
-                />
   </url><url>
-    <loc>https://StefanWyd.github.io/en/tags/</loc>
+    <loc>https://StefanWyd.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://StefanWyd.github.io/tags/"
+                href="https://StefanWyd.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://StefanWyd.github.io/en/tags/"
+                href="https://StefanWyd.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://StefanWyd.github.io/categories/%E6%97%A5%E8%AE%B0/</loc>
+  </url><url>
+    <loc>https://StefanWyd.github.io/categories/%E7%BD%91%E7%AB%99/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://StefanWyd.github.io/zh-cn/categories/%E7%BD%91%E7%AB%99/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://StefanWyd.github.io/categories/%E7%BD%91%E7%AB%99/"
                 />
   </url>
 </urlset>
